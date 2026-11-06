@@ -42,6 +42,10 @@ Career Objective
 
 To secure a role in Data Analytics, Data Science, or Machine Learning where I can apply analytical thinking, leverage AI tools, and contribute to impactful, data-driven solutions.
 ## Project:
-### python project:
-https://github.com/ibialabodappa/Leap_year_checker.git
+| Project | Tools | Link |
+|---|---|---|
+
+| Toxic Comment Classification | Python, NLP, scikit-learn | [View project](https://github.com/ibialabodappa/toxic-and-non-toxic-comment_Classification.git)
+
+| Leap year checker | Python|[View project](https://github.com/ibialabodappa/Leap_year_checker.git)
 
