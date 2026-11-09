@@ -18,7 +18,6 @@ Machine Learning: Model Building, Model Evaluation (Supervised Learning - Beginn
 Prompt Engineering: AI Prompt Design, Optimization, and Automation Workflows
 
 Technical Skills
-
 Programming & Query Languages: Python, SQL
 
 Data Tools: Excel, Power BI
@@ -46,6 +45,8 @@ To secure a role in Data Analytics, Data Science, or Machine Learning where I ca
 |---|---|---|
 
 | Toxic Comment Classification | Python, NLP, scikit-learn | [View project](https://github.com/ibialabodappa/toxic-and-non-toxic-comment_Classification.git)
+
+| Laptop Price Prediction | Python, NLP, scikit-learn | [View project](https://github.com/ibialabodappa/LAPTOP-ML-MODEL-.git)
 
 | Leap year checker | Python|[View project](https://github.com/ibialabodappa/Leap_year_checker.git)
 
